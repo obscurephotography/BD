@@ -2,7 +2,7 @@
 title = "00111100 00110011 00100000 01010101"
 date = 2018-07-06T18:35:16+03:00
 description = "Спасибо, что ты со мной!"
-draft = true
+draft = false
 toc = false
 categories = ["happytwenty"]
 tags = ["<", "3"]
