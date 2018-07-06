@@ -2,7 +2,7 @@
 title = "{{ replace .TranslationBaseName "-" " " | title }}"
 date = {{ .Date }}
 description = "Thank you for choosing After Dark."
-draft = true
+draft = false
 toc = false
 categories = ["technology"]
 tags = ["hello", "world"]
